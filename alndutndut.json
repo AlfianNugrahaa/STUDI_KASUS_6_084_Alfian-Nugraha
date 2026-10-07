@@ -1,0 +1,50 @@
+[
+    {
+        "kode": "001",
+        "nama": "Beras 5kg",
+        "stok": 20,
+        "harga": 65000
+    },
+    {
+        "kode": "002",
+        "nama": "gula pasir",
+        "stok": 10,
+        "harga": 25000
+    },
+    {
+        "kode": "003",
+        "nama": "tepung serbaguna",
+        "stok": 10,
+        "harga": 20000
+    },
+    {
+        "kode": "004",
+        "nama": "sabun mandi",
+        "stok": 10,
+        "harga": 5000
+    },
+    {
+        "kode": "005",
+        "nama": "shampo",
+        "stok": 10,
+        "harga": 15000
+    },
+    {
+        "kode": "006",
+        "nama": "snack",
+        "stok": 10,
+        "harga": 2000
+    },
+    {
+        "kode": "007",
+        "nama": "minuman botol",
+        "stok": 20,
+        "harga": 7000
+    },
+    {
+        "kode": "008",
+        "nama": "telur ",
+        "stok": 20,
+        "harga": 51000
+    }
+]
